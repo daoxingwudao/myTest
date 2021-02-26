@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EE5868C525E930F400485393 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = EE5868C425E930F400485393 /* .gitignore */; };
 		EE87B12225E6B32800E1F656 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE87B12125E6B32800E1F656 /* AppDelegate.swift */; };
 		EE87B12425E6B32800E1F656 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE87B12325E6B32800E1F656 /* SceneDelegate.swift */; };
 		EE87B12625E6B32800E1F656 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE87B12525E6B32800E1F656 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EE5868C425E930F400485393 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		EE87B11E25E6B32800E1F656 /* myTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE87B12125E6B32800E1F656 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EE87B12325E6B32800E1F656 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		EE87B11525E6B32800E1F656 = {
 			isa = PBXGroup;
 			children = (
+				EE5868C425E930F400485393 /* .gitignore */,
 				EE87B12025E6B32800E1F656 /* myTest */,
 				EE87B13725E6B32E00E1F656 /* myTestTests */,
 				EE87B14225E6B32E00E1F656 /* myTestUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE5868C525E930F400485393 /* .gitignore in Resources */,
 				EE87B12E25E6B32E00E1F656 /* LaunchScreen.storyboard in Resources */,
 				EE87B12B25E6B32E00E1F656 /* Assets.xcassets in Resources */,
 				EE87B12925E6B32800E1F656 /* Main.storyboard in Resources */,
